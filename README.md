@@ -2,7 +2,7 @@
 
 This is a basic hardhat template to get you started writing and compiling contract.
 The template is configured with some sensible defaults but tries to stay minimal.
-It comes with most sensible plugins already installed via the suggested `hardhat-toolbox`.
+It comes with most sensible plugins already installed via the suggested `hardhat-toolbox`
 
 - [Hardhat](https://github.com/nomiclabs/hardhat): compile and run the smart contracts on a local development network
 - [TypeChain](https://github.com/ethereum-ts/TypeChain): generate TypeScript types for smart contracts
